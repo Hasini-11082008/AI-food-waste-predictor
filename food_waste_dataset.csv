@@ -1,0 +1,16 @@
+Food,Quantity,Storage_Days,Temperature,Expiry_Days,Status
+Biryani,2,1,5,2,Fresh
+Biryani,5,4,30,0,Waste
+Burger,1,1,4,2,Fresh
+Burger,4,3,28,0,Waste
+Pizza,2,2,5,1,Consume Soon
+Pizza,5,5,32,0,Waste
+Idli,3,1,5,2,Fresh
+Idli,6,3,30,0,Waste
+Dosa,2,1,6,2,Fresh
+Dosa,5,4,31,0,Waste
+Biryani,3,2,10,1,Consume Soon
+Burger,2,2,8,1,Consume Soon
+Pizza,1,1,5,3,Fresh
+Idli,2,2,10,1,Consume Soon
+Dosa,4,3,29,0,Waste
